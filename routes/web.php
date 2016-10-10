@@ -11,12 +11,4 @@
 |
 */
 
-
-
-
-
-
-
-
-
 Route::resource('books', 'BookController');
