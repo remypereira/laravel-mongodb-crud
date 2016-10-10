@@ -9,4 +9,4 @@ For step-by-step instructions refer
 
 http://www.opentechguides.com/tutorials/laravel-mongodb/1/getting-started.html
 
-The JSON file books.json has the Mongoshell command for prepping the dtabase.
+The JSON file books.json has the Mongoshell command for prepping the database.
