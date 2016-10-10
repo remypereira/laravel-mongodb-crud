@@ -1,0 +1,15 @@
+[01-Oct-2016 15:37:49 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[01-Oct-2016 15:49:55 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[01-Oct-2016 15:50:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[01-Oct-2016 15:50:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[01-Oct-2016 15:50:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[01-Oct-2016 15:50:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::collection() in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\DatabaseManager.php on line 317
+[02-Oct-2016 22:02:23 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:02:35 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:04:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:06:09 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:08:19 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:10:14 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[02-Oct-2016 22:23:46 UTC] PHP Fatal error:  Class 'url' not found in C:\Remy\Apache24\htdocs\library\storage\framework\views\595a029c9d35488e8f5e36310445af69699eccd4.php on line 52
+[07-Oct-2016 10:59:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\Remy\Apache24\htdocs\library\app\Http\Controllers\BookController.php on line 25
+[07-Oct-2016 11:03:48 UTC] PHP Fatal error:  Call to a member function all() on array in C:\Remy\Apache24\htdocs\library\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Builder.php on line 613
